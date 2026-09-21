@@ -1,0 +1,12 @@
+
+# Ignore env virtuel 
+.venv
+
+# Ignore temp & log
+*.tmp
+*.log
+**/logs
+
+# Ignore CLAUDE.md
+CLAUDE.md
+
