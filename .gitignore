@@ -6,6 +6,7 @@
 *.tmp
 *.log
 **/logs
+checkpoints/ 
 
 # Ignore CLAUDE.md
 CLAUDE.md
